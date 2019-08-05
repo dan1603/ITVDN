@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/design/28.0.0/res/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/interpolator/mtrl_linear.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/design/28.0.0/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/design/28.0.0/res/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/design/28.0.0/res/interpolator/mtrl_fast_out_linear_in.xml"
+    }
+]

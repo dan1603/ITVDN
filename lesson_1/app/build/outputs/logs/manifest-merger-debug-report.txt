@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb6d00ede71aadac7ec613979d0b8fcf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/01a833d0e06431e7677db1bc97e07319/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-kotlin-2.0.0.aar/9aeb272c33c365d635593eb461a90b42/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/e0c0bf31834d5cdd8a0c0270ecf7cecd/AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/18666f41a8382fabea11cc1608696406/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d2f8525df04994d9c5b13d9364bf9b03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22e672ed69238f7eb7d95c92a1b3ecf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/37b1b98bb46665118ffbda058945cd42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6bc95338fb1804997812c124ca3df210/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9d71a54c6253f607423bd6e174e4a839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc707e9176efd0695cafef6d0ebd8267/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ce15e047b750613ed72b6c6484fad7d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c755a95b6a6a096264969d6ef9f9dd1d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b1c805d4a3a34cf3bd178219e71a17b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8d14f9d41ef79364120c68cabb8f18a1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/01a833d0e06431e7677db1bc97e07319/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/01a833d0e06431e7677db1bc97e07319/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.kalashnyk.denys.rxjava2lessons_1.MainActivity
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb6d00ede71aadac7ec613979d0b8fcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb6d00ede71aadac7ec613979d0b8fcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/01a833d0e06431e7677db1bc97e07319/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/01a833d0e06431e7677db1bc97e07319/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-kotlin-2.0.0.aar/9aeb272c33c365d635593eb461a90b42/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-kotlin-2.0.0.aar/9aeb272c33c365d635593eb461a90b42/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/e0c0bf31834d5cdd8a0c0270ecf7cecd/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/e0c0bf31834d5cdd8a0c0270ecf7cecd/AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/18666f41a8382fabea11cc1608696406/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/18666f41a8382fabea11cc1608696406/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d2f8525df04994d9c5b13d9364bf9b03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d2f8525df04994d9c5b13d9364bf9b03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22e672ed69238f7eb7d95c92a1b3ecf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22e672ed69238f7eb7d95c92a1b3ecf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/37b1b98bb46665118ffbda058945cd42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/37b1b98bb46665118ffbda058945cd42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6bc95338fb1804997812c124ca3df210/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6bc95338fb1804997812c124ca3df210/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9d71a54c6253f607423bd6e174e4a839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9d71a54c6253f607423bd6e174e4a839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc707e9176efd0695cafef6d0ebd8267/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc707e9176efd0695cafef6d0ebd8267/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ce15e047b750613ed72b6c6484fad7d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ce15e047b750613ed72b6c6484fad7d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c755a95b6a6a096264969d6ef9f9dd1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c755a95b6a6a096264969d6ef9f9dd1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b1c805d4a3a34cf3bd178219e71a17b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b1c805d4a3a34cf3bd178219e71a17b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8d14f9d41ef79364120c68cabb8f18a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8d14f9d41ef79364120c68cabb8f18a1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/src/main/AndroidManifest.xml

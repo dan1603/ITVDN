@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

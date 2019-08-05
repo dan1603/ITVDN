@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Wed May 01 13:10:05 EEST 2019
+2.base=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_6/app/build/intermediates/transforms/mergeJniLibs/debug/0
+5.set=NATIVE_RESOURCE
+0.path=classes2.dex
+2.baseType=DIRECTORY
+3.base=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_6/app/build/intermediates/transforms/mergeJniLibs/debug/0
+2.set=NATIVE_RESOURCE
+1.path=lib/armeabi-v7a/librealm-jni.so
+4.base=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_6/app/build/intermediates/transforms/dexMerger/debug/0
+count=7
+5.baseType=DIRECTORY
+2.path=lib/x86_64/librealm-jni.so
+5.base=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_6/app/build/intermediates/transforms/mergeJniLibs/debug/0
+4.set=DEX
+3.path=lib/mips/librealm-jni.so
+6.base=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_6/app/build/intermediates/transforms/mergeJniLibs/debug/0
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/arm64-v8a/librealm-jni.so
+0.base=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_6/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/x86/librealm-jni.so
+1.base=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_6/app/build/intermediates/transforms/mergeJniLibs/debug/0
+4.baseType=DIRECTORY
+0.set=DEX

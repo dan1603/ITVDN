@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:2:11-52
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/transition/25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:6:9-59
+activity#com.kalasnyk.denys.realmexample.presentation.activities.TaskListActivity
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:13:13-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:3.1.4] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/io.realm/realm-android-library/3.1.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/transition/25.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [io.realm:android-adapters:2.0.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/io.realm/android-adapters/2.0.0/AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/transition/25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] /Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/AndroidManifest.xml:27:13-51

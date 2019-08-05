@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/layout-v21/notification_action.xml"
+    }
+]

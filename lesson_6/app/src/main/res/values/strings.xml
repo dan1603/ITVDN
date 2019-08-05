@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Introduction to Kotlin</string>
+    <string name="increment_operator">Increment operator</string>
+    <string name="decrement_operator">Decrement operator</string>
+    <string name="sum_operator">Sum operator</string>
+    <string name="concat_operator">Concat operator</string>
+    <string name="compare_operator">Compare operator</string>
+    <string name="first_array_number_operator">First array number operator</string>
+    <string name="for_operator">For operator</string>
+    <string name="while_operator">While operator</string>
+    <string name="when_operator">When operator</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Tasky/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

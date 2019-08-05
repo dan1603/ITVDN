@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.4.0_c6f6426829809a0742c7c3fe3d89d6a21bcc5aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.4.0_76aa523c6f9782b0219fcbe98e198ad799eb9b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/io.realm/realm-android-library/3.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2b29d8689808b14eb3ad20b6ce41dae445f1a32d">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-3.1.4_428e308a25f226e7237ef06261068fdde676658d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.4.0_3ce295c7932bff39d1746848916f57a1ce80e6fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.4.0_0c24137ab8ee98f3fae3a460981a3a27acb2a54e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/io.realm/realm-android-library/3.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2b29d8689808b14eb3ad20b6ce41dae445f1a32d">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-3.1.4_e6cb5c8d6a0709c830cca7b22b83eb11c6a8bb8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/io.realm/android-adapters/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c40c40059e805809fd4013e6010eb45a35ded9a9">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/io.realm-android-adapters-2.0.0_ef74dc549caacf0a574eca4d571fccf3e16f6e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.4.0_590a1fabb0c095eb68dad5c2213b0cfa9d93eeed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.4.0_cbe11bb852e6ecc7a8de0a5b8ff59c2c856be375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.4.0_ce0e73f6504eca1f1758c397831c811764791e70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.4.0_158bd80cd8d8aa76361be76e464be19fd5dec38c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_8755ec69a64a184bc724bcbfb43b9c33d3a8d9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/transition/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.4.0_a55634dec59307baff0d42217f671df18a89350a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.4.0_6223c55cfbd91a937ea6d26cde5d97be10df254f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.4.0_35c9858713803139b35e9dee8bc72ba515fd2f67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.4.0_08eb889ed8754a3fa300e428a5e8497be578481c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/io.realm/android-adapters/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c40c40059e805809fd4013e6010eb45a35ded9a9">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/io.realm-android-adapters-2.0.0_60b86c65adf855d3e0f19cac2a34e35bf7c84df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.4.0_656f106e938fa63a00a8b0463984453b9f0b0874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_3bbf7a85ec431ed30c66415bdefffe496dd37bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.4.0_f848050bb193defc13f281cd639ff0f768363f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_150ff74ab1742499d9c2672b5f8b351b2cf573c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.4.0_bc708a63ffd2bf6dd98283ae3a25a8c633bc6be2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.4.0_dcabcb7f9607be472c20a0134f6ae2223209632b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.4.0_bbe47aad89bfa6594af424c73f1cd46909585e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.4.0_2ca5bfc326c83c387a00340332ad1ffa20f5e13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.1.4/8726e81201c46a55f594c549fbf0266433c3cd67/realm-annotations-3.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8726e81201c46a55f594c549fbf0266433c3cd67">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/realm-annotations-3.1.4_613d47d7830b6047ac385e6a3a8c3cdc45538084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.4.0_ed7ab7d31786522b6730adab03e0573426cff282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.4.0_109621fcc197dbf743e4395c3bca9160cc7fe345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.4.0_62fc6a126abb3275481ae94f7ef1d787219251f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/transition/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.4.0_4797f277f2cd737676d332bad2a1f3d3f61bc868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.4.0_c65a79b39ded69ad3ee6fa77c86702a4f9c785f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/shifthackz/Develop/Android/Tutorials/realm-android-demo-master/completed/Realm Example/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.4.0_5f137cb94b0008319b177ddf5d37beb8603737f8.jar" />
+    </item>
+
+</items>

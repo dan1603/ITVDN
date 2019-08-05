@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688837486098",
+    "firebase_url": "https://lesson8-69e28.firebaseio.com",
+    "project_id": "lesson8",
+    "storage_bucket": "lesson8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688837486098:android:2422e7ecb0b01eb1",
+        "android_client_info": {
+          "package_name": "com.kalashnyk.denys.gmapsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688837486098-f0pp577jqls7qbq2r9ave8lvcn0jjb9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalashnyk.denys.gmapsapp",
+            "certificate_hash": "cbd1dca007c2d1f68b566e20c87d3c36aea089c6"
+          }
+        },
+        {
+          "client_id": "688837486098-bvi9aobj27dh73a2trirrjilfcq0angt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSEf2igs1r4QtDq-XFrVhHE_PbmNyXjkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688837486098-bvi9aobj27dh73a2trirrjilfcq0angt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

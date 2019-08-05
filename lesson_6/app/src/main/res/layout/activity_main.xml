@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".views.MainActivity">
+
+    <TextView
+            android:scrollbars="vertical"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/tvConsole"/>
+
+    <Button
+            android:id="@+id/btnClear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[ Clear console ]"/>
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <Button
+                android:id="@+id/btnIncrement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/increment_operator"/>
+
+        <Button
+                android:id="@+id/btnDecrement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/decrement_operator"/>
+
+        <Button
+                android:id="@+id/btnSum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sum_operator"/>
+
+        <Button
+                android:id="@+id/btnConcat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/concat_operator"/>
+
+        <Button
+                android:id="@+id/btnCompare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/compare_operator"/>
+
+        <Button
+                android:id="@+id/btnFirstOfArr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/first_array_number_operator"/>
+
+        <Button
+                android:id="@+id/btnFor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/for_operator"/>
+
+        <Button
+                android:id="@+id/btnWhile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/while_operator"/>
+
+        <Button
+                android:id="@+id/btnWhen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/when_operator"/>
+
+    </LinearLayout>
+</LinearLayout>

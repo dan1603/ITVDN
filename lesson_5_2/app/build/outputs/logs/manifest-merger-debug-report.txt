@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.karumi:dexter:4.2.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/5acb0aaee720b2cee46708fe5ea08baf/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/799144967b7d341de7eb38ed0fc4a8fd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android-support:2.15] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.15.aar/01b6e3d8a8a13c92b5ad93510000ac3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6a03d91ad3d38fb65de413dd431902e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dcd3a367ec0a2ed94665e5f5898a041d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c9accde24869786660f2f9a0b83adcd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/a202f0d899781627e4eec4ccdfc7befb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/281f58cd7be03bca520dbce88ccd7f3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c890feeedb73c0f0d25f49210628f3b8/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4514722b904dfd6038568249bbf21e4d/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/e60687b7c18841bf6fa17c3b35a4fffd/AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton.rxbinding:rxbinding:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-1.0.0.aar/233eec5e1a1d79a62f2773ce0bc98114/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.dagger:dagger-android:2.15] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dagger-android-2.15.aar/453189ebb8653883b5eab67210a1e170/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4134ddb446a7e7aa3c20a111fac1d2bc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1e2785ee6076cfeb94bf9383159709c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/afd9d9db8a12937ffe9790df993df82d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/343a5f048595759128a3710fff30b751/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5e78483db073d423b29a3ab1f36232d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/3510683aa1bd1013c5d14777c078fbc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3348fcd7c388d8b563dc232db6ade1aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e34c9c6a9cd6cf9eb2d9d9c73d6769fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a3583d02b0957d6d25026b3e03c31d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d502fd70c35c4cf378414ffee9aaeef6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aea65a6f83b795b065655eb4bfbd9349/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d8f4d627df880fa76c8337dcbb7e4ed4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3e5be06d4921eda9a1b7e3348ba5b30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4c3f8b26b19fd46e339acff6c72793b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e09b5a9cedce94ef7059cd091d0b94ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1b143bb06d515ce54513026c41a88990/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b89849ee288f0da1c3b296f0715d16a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2db6e032f1023b1dea5d54d003b53064/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d0caaba3741cae680156dcc45aa90b90/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/43c4787ed463249fb9f98f20effb00b9/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/febde757ba56ac2e18a06064a901bc3b/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a400312656e474752031aa9a76a2b5d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/65902bb7490a1f4229f186b6ed213848/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ee93034afc0f86ee77ba8ab6b78a7f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2116404f1f6e1e054916de4d30a1a45a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c7639b4a1cefe7c2dbeb66846940213/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dab04e1ff56e046a3c6d2bb6cc70917e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c45a8e680f14d0d451ecb42601bfad02/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7ffc46602b48cef0cfd8e0edbfd81bf0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7580a819b56c6045a06fe0ddc3e36edc/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/57be617b6d8a7b5b94ae290a333b36d5/AndroidManifest.xml:15:1-21:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:11:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:15:22-95
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:16:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:17:22-71
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:18:22-69
+application
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:20:5-42:19
+MERGED from [com.karumi:dexter:4.2.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/5acb0aaee720b2cee46708fe5ea08baf/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:4.2.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/5acb0aaee720b2cee46708fe5ea08baf/AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support:design:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/799144967b7d341de7eb38ed0fc4a8fd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/799144967b7d341de7eb38ed0fc4a8fd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dcd3a367ec0a2ed94665e5f5898a041d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dcd3a367ec0a2ed94665e5f5898a041d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b89849ee288f0da1c3b296f0715d16a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b89849ee288f0da1c3b296f0715d16a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2db6e032f1023b1dea5d54d003b53064/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2db6e032f1023b1dea5d54d003b53064/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b89849ee288f0da1c3b296f0715d16a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:28:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:22:9-69
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:21:9-47
+activity#com.kalashnyk.denys.samplemvvmapp.presentation.activities.splash.SplashActivity
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:29:9-39:20
+	android:screenOrientation
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:31:13-45
+	android:noHistory
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:34:13-47
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:29:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:37:27-74
+activity#com.kalashnyk.denys.samplemvvmapp.presentation.activities.detail.DetailActivity
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:40:9-83
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:40:19-80
+activity#com.kalashnyk.denys.samplemvvmapp.presentation.activities.main.MainActivity
+ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:41:9-78
+	android:name
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml:41:19-76
+uses-sdk
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+MERGED from [com.karumi:dexter:4.2.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/5acb0aaee720b2cee46708fe5ea08baf/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:4.2.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/5acb0aaee720b2cee46708fe5ea08baf/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/799144967b7d341de7eb38ed0fc4a8fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/799144967b7d341de7eb38ed0fc4a8fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.15] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.15.aar/01b6e3d8a8a13c92b5ad93510000ac3e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.15] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.15.aar/01b6e3d8a8a13c92b5ad93510000ac3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6a03d91ad3d38fb65de413dd431902e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6a03d91ad3d38fb65de413dd431902e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dcd3a367ec0a2ed94665e5f5898a041d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dcd3a367ec0a2ed94665e5f5898a041d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c9accde24869786660f2f9a0b83adcd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c9accde24869786660f2f9a0b83adcd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/a202f0d899781627e4eec4ccdfc7befb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/a202f0d899781627e4eec4ccdfc7befb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/281f58cd7be03bca520dbce88ccd7f3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/281f58cd7be03bca520dbce88ccd7f3d/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c890feeedb73c0f0d25f49210628f3b8/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c890feeedb73c0f0d25f49210628f3b8/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4514722b904dfd6038568249bbf21e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4514722b904dfd6038568249bbf21e4d/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/e60687b7c18841bf6fa17c3b35a4fffd/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/e60687b7c18841bf6fa17c3b35a4fffd/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton.rxbinding:rxbinding:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-1.0.0.aar/233eec5e1a1d79a62f2773ce0bc98114/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxbinding-1.0.0.aar/233eec5e1a1d79a62f2773ce0bc98114/AndroidManifest.xml:6:5-44
+MERGED from [com.google.dagger:dagger-android:2.15] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dagger-android-2.15.aar/453189ebb8653883b5eab67210a1e170/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.15] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dagger-android-2.15.aar/453189ebb8653883b5eab67210a1e170/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4134ddb446a7e7aa3c20a111fac1d2bc/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4134ddb446a7e7aa3c20a111fac1d2bc/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1e2785ee6076cfeb94bf9383159709c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1e2785ee6076cfeb94bf9383159709c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/afd9d9db8a12937ffe9790df993df82d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/afd9d9db8a12937ffe9790df993df82d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/343a5f048595759128a3710fff30b751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/343a5f048595759128a3710fff30b751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5e78483db073d423b29a3ab1f36232d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5e78483db073d423b29a3ab1f36232d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/3510683aa1bd1013c5d14777c078fbc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/3510683aa1bd1013c5d14777c078fbc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3348fcd7c388d8b563dc232db6ade1aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3348fcd7c388d8b563dc232db6ade1aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e34c9c6a9cd6cf9eb2d9d9c73d6769fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e34c9c6a9cd6cf9eb2d9d9c73d6769fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a3583d02b0957d6d25026b3e03c31d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a3583d02b0957d6d25026b3e03c31d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d502fd70c35c4cf378414ffee9aaeef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d502fd70c35c4cf378414ffee9aaeef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aea65a6f83b795b065655eb4bfbd9349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aea65a6f83b795b065655eb4bfbd9349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d8f4d627df880fa76c8337dcbb7e4ed4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d8f4d627df880fa76c8337dcbb7e4ed4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3e5be06d4921eda9a1b7e3348ba5b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3e5be06d4921eda9a1b7e3348ba5b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4c3f8b26b19fd46e339acff6c72793b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4c3f8b26b19fd46e339acff6c72793b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e09b5a9cedce94ef7059cd091d0b94ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e09b5a9cedce94ef7059cd091d0b94ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1b143bb06d515ce54513026c41a88990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1b143bb06d515ce54513026c41a88990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b89849ee288f0da1c3b296f0715d16a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b89849ee288f0da1c3b296f0715d16a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2db6e032f1023b1dea5d54d003b53064/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2db6e032f1023b1dea5d54d003b53064/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d0caaba3741cae680156dcc45aa90b90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d0caaba3741cae680156dcc45aa90b90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/43c4787ed463249fb9f98f20effb00b9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/43c4787ed463249fb9f98f20effb00b9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/febde757ba56ac2e18a06064a901bc3b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/febde757ba56ac2e18a06064a901bc3b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a400312656e474752031aa9a76a2b5d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a400312656e474752031aa9a76a2b5d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/65902bb7490a1f4229f186b6ed213848/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/65902bb7490a1f4229f186b6ed213848/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ee93034afc0f86ee77ba8ab6b78a7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ee93034afc0f86ee77ba8ab6b78a7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2116404f1f6e1e054916de4d30a1a45a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2116404f1f6e1e054916de4d30a1a45a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c7639b4a1cefe7c2dbeb66846940213/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c7639b4a1cefe7c2dbeb66846940213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dab04e1ff56e046a3c6d2bb6cc70917e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dab04e1ff56e046a3c6d2bb6cc70917e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c45a8e680f14d0d451ecb42601bfad02/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c45a8e680f14d0d451ecb42601bfad02/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7ffc46602b48cef0cfd8e0edbfd81bf0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7ffc46602b48cef0cfd8e0edbfd81bf0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7580a819b56c6045a06fe0ddc3e36edc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7580a819b56c6045a06fe0ddc3e36edc/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/57be617b6d8a7b5b94ae290a333b36d5/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/57be617b6d8a7b5b94ae290a333b36d5/AndroidManifest.xml:19:5-43
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:4.2.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/5acb0aaee720b2cee46708fe5ea08baf/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:4.2.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/5acb0aaee720b2cee46708fe5ea08baf/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:4.2.0] /Users/shifthackz/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/5acb0aaee720b2cee46708fe5ea08baf/AndroidManifest.xml:28:13-60

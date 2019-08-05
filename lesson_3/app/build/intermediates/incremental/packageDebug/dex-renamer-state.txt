@@ -1,0 +1,4 @@
+#Tue Apr 30 19:41:10 EEST 2019
+base.0=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_3/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

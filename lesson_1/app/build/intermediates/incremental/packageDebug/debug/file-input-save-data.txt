@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 06 07:48:54 EEST 2019
+0.baseType=DIRECTORY
+0.base=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_1/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

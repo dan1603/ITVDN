@@ -1,0 +1,4 @@
+#Fri May 17 18:13:38 EEST 2019
+base.0=/Users/shifthackz/Desktop/itvdn_repo/123/lesson_7/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
